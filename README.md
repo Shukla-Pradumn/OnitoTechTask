@@ -1,7 +1,7 @@
 # OnitoTechTask
 
-    ```
-    cd onitoTask/two-step-registration-form
+ 
+1.   cd onitoTask/two-step-registration-form
     ```
 2. Install dependencies:
     ```
